@@ -1,41 +1,51 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Misel Oktaviani Putri
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Misel Oktaviani Putri!
 
-### Informatics Engineering Student at Universitas Esa Unggul
+### Informatics Engineering Student | Technology Enthusiast
 
-I'm an Informatics Engineering student at **Universitas Esa Unggul**, interested in technology, programming, and software development.
+I'm an Informatics Engineering student at **Universitas Esa Unggul**, passionate about technology, programming, and software development.
 
-I'm passionate about learning new technologies, improving my technical skills, and exploring how software can solve real-world problems.
+I enjoy exploring new technologies, learning different programming languages, and developing my problem-solving skills through practical projects and continuous learning.
 
 ---
 
-## About Me
+### About Me
 
-- Informatics Engineering student at Universitas Esa Unggul.
-- Interested in programming and software development.
-- Currently exploring new technologies and programming concepts.
-- Enjoy learning, experimenting, and building projects.
+- Currently studying Informatics Engineering at Universitas Esa Unggul.
+- Interested in software development and programming.
+- Exploring different programming languages and database technologies.
+- Enjoy learning new concepts and experimenting with technology.
 - Based in Banten, Indonesia.
 
-## Interests
+### Technologies & Languages
+
+These are some of the technologies and programming languages I've learned and explored:
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Areas of Interest
 
 - Software Development
-- Programming
+- Programming & Algorithms
+- Database Management
 - Web Development
-- Technology and Innovation
 - Problem Solving
 
-## GitHub Statistics
+### My Learning Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miseloktavians&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miseloktavians&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+I use GitHub to document my learning journey, showcase my projects, practice programming, and explore new technologies.
+
+I believe that continuous learning and hands-on experience are essential to becoming a better developer.
 
 ---
 
-## Connect With Me
+### Let's Connect
 
-I'm always open to learning, sharing knowledge, and connecting with people who have similar interests in technology.
+I'm always excited to learn, exchange ideas, and connect with people who share an interest in technology and software development.
 
-Thanks for visiting my GitHub profile!
+**Thanks for visiting my profile!**
 
